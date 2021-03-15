@@ -4,13 +4,14 @@ Olivecoin integration/staging tree
 http://www.olivecoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Olivecoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2021 Olivecoin Developers
 
 What is Olivecoin?
 ----------------
 
 Olivecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+ - 2 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
 
